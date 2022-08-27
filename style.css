@@ -1,0 +1,29 @@
+* {
+    background-color: #ad9f86;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#hellotext {
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 240px;
+    font-size: 40px;
+}
+
+#pfpimg {
+    display: block;
+    margin-left: 760px;
+    margin-right: auto;
+    margin-top: -150px;
+}
+
+#nametxt {
+    text-align: center;
+    margin-right: 240px;
+    font-size: 20px;
+}
+
+#discord {
+    text-align: center;
+    margin-top: 60px;
+}
